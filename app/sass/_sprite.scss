@@ -1,0 +1,74 @@
+%svg-common {
+	background: url("../img/sprite-b1df62b3.svg") no-repeat;
+}
+
+.icon-badminton {
+	@extend %svg-common;
+	background-position: 0 48.40604683950811%;
+}
+
+.icon-badminton-dims {
+	width: 673px;
+	height: 242.65px;
+}
+
+.icon-football {
+	@extend %svg-common;
+	background-position: 99.9359243697479% 0;
+}
+
+.icon-football-dims {
+	width: 463px;
+	height: 153.92px;
+}
+
+.icon-headphones {
+	@extend %svg-common;
+	background-position: 0 99.95758354755785%;
+}
+
+.icon-headphones-dims {
+	width: 472px;
+	height: 103px;
+}
+
+.icon-logo {
+	@extend %svg-common;
+	background-position: 93.79861775231936% 24.26497249065943%;
+}
+
+.icon-logo-dims {
+	width: 400.71px;
+	height: 246.67px;
+}
+
+.icon-saturn {
+	@extend %svg-common;
+	background-position: 0 71.45910515816472%;
+}
+
+.icon-saturn-dims {
+	width: 542px;
+	height: 109.02px;
+}
+
+.icon-strategy {
+	@extend %svg-common;
+	background-position: 0 0;
+}
+
+.icon-strategy-dims {
+	width: 951.39px;
+	height: 309px;
+}
+
+.icon-sunstone {
+	@extend %svg-common;
+	background-position: 0 86.47513089005236%;
+}
+
+.icon-sunstone-dims {
+	width: 531.24px;
+	height: 117px;
+}
+
